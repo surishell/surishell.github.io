@@ -1697,6 +1697,20 @@ img.third{
     
 }
 
+.home .slide-text {
+    position: absolute;
+    display: block;
+    bottom:25%;
+    right: 0;
+    left:0px;
+    right:0px;
+    width: 80%;
+    padding: 0 10px;
+    z-index: 22;
+    max-width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
 
 .home .slide-text h2 {
     font-family:'Lato', sans-serif;
